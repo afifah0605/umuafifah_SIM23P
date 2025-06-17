@@ -34,7 +34,7 @@
     <!-- Brand Logo -->
     <!-- Sidebar brand/logo -->
 <a href="#" class="brand-link text-center">
-  <span class="brand-text font-weight-bold text-primary">Rumah Sakit Sehati</span>
+  <span class="brand-text font-weight-bold text-primary">Rumah Sakit Karawang</span>
 </a>
 
 <!-- Sidebar user panel (username di tengah, tanpa foto) -->
