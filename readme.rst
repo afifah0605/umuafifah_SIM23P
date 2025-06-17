@@ -71,6 +71,10 @@ The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 ***************
+
+###################
+Login Proyek Afifah
+###################
 Login Admin
 Username: admin
 Password: 123456
